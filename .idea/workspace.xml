@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="fa021db8-7911-46ac-984d-406d7a22b00f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/images/advice_button.jpg" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/images/advice_button.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/images/offline.png" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/images/offline.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/images/online.png" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/images/online.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/expertController.php" afterPath="$PROJECT_DIR$/application/controllers/expertController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/indexController.php" afterPath="$PROJECT_DIR$/application/controllers/indexController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/loginController.php" afterPath="$PROJECT_DIR$/application/controllers/loginController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/indexModel.php" afterPath="$PROJECT_DIR$/application/models/indexModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/about.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/experts/experthome.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/experts/experthome.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/index.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/login.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/request_advice.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/request_advice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/search.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/search_experts.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/search_experts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/theme/saan_template/signup.php" afterPath="$PROJECT_DIR$/application/views/theme/saan_template/signup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/core/class.Database.php" afterPath="$PROJECT_DIR$/library/core/class.Database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/core/class.SaanController.php" afterPath="$PROJECT_DIR$/library/core/class.SaanController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/techadmin/application/controllers/adminhomeController.php" afterPath="$PROJECT_DIR$/techadmin/application/controllers/adminhomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/techadmin/application/models/adminhomeModel.php" afterPath="$PROJECT_DIR$/techadmin/application/models/adminhomeModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/techadmin/bootstrap.php" afterPath="$PROJECT_DIR$/techadmin/bootstrap.php" />
+    </list>
+    <ignored path="infopedia.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="search_experts.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/theme/saan_template/search_experts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="37" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signupController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/signupController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="126" column="16" selection-start="6011" selection-end="6160" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_config.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/app_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="21" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.1609658">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signupModel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/signupModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="41" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/theme/saan_template/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="37" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/indexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="61" selection-start="4092" selection-end="4092" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.Database.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/core/class.Database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="211" column="36" selection-start="5613" selection-end="5613" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexModel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/indexModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="119" column="84" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request_advice.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/theme/saan_template/request_advice.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="228" selection-start="4322" selection-end="4322" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.SaanController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/core/class.SaanController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="16" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/theme/saan_template/experts/experthome.php" />
+        <option value="$PROJECT_DIR$/application/views/theme/saan_template/signup.php" />
+        <option value="$PROJECT_DIR$/application/views/theme/saan_template/login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/loginController.php" />
+        <option value="$PROJECT_DIR$/application/controllers/expertController.php" />
+        <option value="$PROJECT_DIR$/application/controllers/searchController.php" />
+        <option value="$PROJECT_DIR$/application/views/theme/saan_template/search_experts.php" />
+        <option value="$PROJECT_DIR$/techadmin/application/views/theme/saan_template/view_payable_experts.php" />
+        <option value="$PROJECT_DIR$/techadmin/application/controllers/adminhomeController.php" />
+        <option value="$PROJECT_DIR$/techadmin/bootstrap.php" />
+        <option value="$PROJECT_DIR$/library/core/class.SaanController.php" />
+        <option value="$PROJECT_DIR$/library/core/class.Database.php" />
+        <option value="$PROJECT_DIR$/application/controllers/indexController.php" />
+        <option value="$PROJECT_DIR$/application/models/indexModel.php" />
+        <option value="$PROJECT_DIR$/application/views/theme/saan_template/search.php" />
+        <option value="$PROJECT_DIR$/application/views/theme/saan_template/request_advice.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infopedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../caketest" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="true" cleanupOnStartRun="true">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\gauravpc\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\xampp\htdocs\saanprojects\infopedia" />
+          <option name="myCopyRoot" value="C:\xampp\htdocs\saanprojects\infopedia" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\xampp\htdocs\saanprojects\infopedia" />
+          <option name="myCopyRoot" value="C:\xampp\htdocs\saanprojects\infopedia" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa021db8-7911-46ac-984d-406d7a22b00f" name="Default" comment="" />
+      <created>1359377872314</created>
+      <updated>1359377872314</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Mass Payment completed">
+      <created>1359454749218</created>
+      <updated>1359454749218</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes in the Database library class&#10;completed the updation of amount due value for the experts&#10;mass payment and corresponding updations done successfully">
+      <created>1359456924102</created>
+      <updated>1359456924102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="success page for mass payment">
+      <created>1359457002119</created>
+      <updated>1359457002119</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33435583" sideWeight="0.36091548" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6390845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="cancel page for mass payment" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Mass Payment completed" />
+    <MESSAGE value="changes in the Database library class&#10;completed the updation of amount due value for the experts&#10;mass payment and corresponding updations done successfully" />
+    <MESSAGE value="success page for mass payment" />
+    <MESSAGE value="cancel page for mass payment" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/theme/saan_template/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="34" selection-start="1702" selection-end="6377" vertical-scroll-proportion="-14.153846" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techadmin/application/controllers/test_payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techadmin/config/app_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techadmin/application/views/theme/saan_template/view_payable_experts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="41" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techadmin/application/controllers/adminhomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="323" column="37" selection-start="12818" selection-end="12818" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techadmin/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/core/class.SaanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="16" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/core/class.Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="211" column="36" selection-start="5613" selection-end="5613" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="61" selection-start="4092" selection-end="4092" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/indexModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="84" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/theme/saan_template/search_experts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/theme/saan_template/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="37" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/theme/saan_template/request_advice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="228" selection-start="4322" selection-end="4322" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/signupModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="41" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/signupController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="16" selection-start="6011" selection-end="6160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="21" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.1609658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

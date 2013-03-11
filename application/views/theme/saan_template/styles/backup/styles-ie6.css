@@ -1,0 +1,28 @@
+/* Fixes the Top Nav Placement */
+#topNav ul li, #topNav ul li:hover {
+    padding: 12px 15px 9px 14px;
+}
+
+/* Fixes the Tab Icon Images Alignment */
+#wTabs1, #wTabs2 {
+    margin: -10px 0 -11px;
+    border-bottom: none;
+}
+
+#wTabs1 li img,
+
+,
+#wTabs2 li img {
+    vertical-align: middle;
+    margin-right: 7px;
+    width: 26px;
+    height: 28px;
+}
+
+#wTabs1 li.on a, #wTabs1 li a,
+
+,
+#wTabs2, #wTabs2 li a {
+    padding-top: 20px;
+}
+
